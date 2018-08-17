@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.huaxin.security.core.properties.SecurityProperties",
+      "name": "huaxin.security",
+      "type": "com.huaxin.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.huaxin.security.core.properties.SecurityProperties",
+      "name": "huaxin.security.browser",
+      "type": "com.huaxin.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.huaxin.security.core.properties.SecurityProperties",
+      "name": "huaxin.security.social",
+      "type": "com.huaxin.security.core.properties.SocialProperties"
+    }
+  ]
+}
